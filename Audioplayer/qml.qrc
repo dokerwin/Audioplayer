@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>myItem.qml</file>
+        <file>File.qml</file>
+        <file>Playlist.qml</file>
+        <file>Test.qml</file>
+    </qresource>
+</RCC>
