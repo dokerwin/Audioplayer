@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>myItem.qml</file>
+        <file>File.qml</file>
+        <file>Playlist.qml</file>
+        <file>Test.qml</file>
+        <file>Setting_button.qml</file>
+        <file>Setting.qml</file>
+        <file>Buttons/Next_btn.qml</file>
+        <file>Buttons/Play_btn.qml</file>
+        <file>Buttons/Stop_btn.qml</file>
+        <file>Buttons/template_btn.qml</file>
+        <file>Buttons/Prev_btn.qml</file>
+    </qresource>
+</RCC>
